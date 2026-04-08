@@ -15,3 +15,7 @@ Este repositório contém exercícios praticados durante o curso de SQL do Teo M
 - Consolidar conhecimentos em SQL  
 - Praticar a criação de queries complexas  
 - Organizar dados de forma estruturada e reutilizável, simulando um ambiente de **Data Engineering**
+
+- #Dados para serem utilizados extraidos do kaggle:
+
+- https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system
